@@ -1,3 +1,8 @@
+html {
+    background-color: lightgray;
+}
+
+
 .blue-hat {
     width: 60px;
     height: 60px;
@@ -11,8 +16,24 @@ h2 {
     text-align: center;
 }
 
-.glyphicon.glyphicon-one-fine-dot:before {
-    content: "\25cf";
-    font-size: 1.5em;
-    color: red;
+#box-red {
+    width: 200px;
+    height: 200px;
+    background: red;
+
+}
+
+#box-orange {
+    width: 200px;
+    height: 200px;
+    background: orange;
+
+}
+
+.circle {
+    border-radius: 500px;
+}
+
+header {
+    background-color: lightgray;
 }
