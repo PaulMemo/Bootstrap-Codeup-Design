@@ -14,6 +14,7 @@ h1 {
 
 h2 {
     text-align: center;
+    font-family: Anton, sans-serif;
 }
 
 #box-red {
@@ -27,6 +28,20 @@ h2 {
     width: 200px;
     height: 200px;
     background: orange;
+
+}
+
+#box-green {
+    width: 200px;
+    height: 200px;
+    background: green;
+
+}
+
+#box-blue {
+    width: 200px;
+    height: 200px;
+    background: blue;
 
 }
 
