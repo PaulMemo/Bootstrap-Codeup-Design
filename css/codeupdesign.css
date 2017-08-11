@@ -103,25 +103,30 @@ header {
 }
 
 .circle-icon {
-    width: 25px;
-    height: 25px;
+    width: 18px;
+    height: 18px;
     margin: 0;
-    float: left;
+    float: right;
     color: black;
     text-align: center;
+    font-size: x-small;
+
 
 }
 
 .words {
     font-size: 20px;
     font-family: anton, sans-serif;
+    margin-top: 20px;
 }
 
 .mobile {
-    width: 60px;
-    height: 60px;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
 }
 
 .col-sm-4 {
     padding: 50px;
+
 }
