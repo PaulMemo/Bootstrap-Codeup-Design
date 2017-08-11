@@ -23,29 +23,24 @@ h2 {
 
 }
 
-#box-orange {
-    width: 200px;
-    height: 200px;
-    background: orange;
-
+.block {
+    border: 1px solid red;
+    text-align: center;
+    vertical-align: middle;
 }
-
-#box-green {
-    width: 200px;
-    height: 200px;
-    background: green;
-
-}
-
-#box-blue {
-    width: 200px;
-    height: 200px;
-    background: blue;
-
-}
-
 .circle {
-    border-radius: 500px;
+    background: red;
+    border-radius: 200px;
+    color: white;
+    height: 200px;
+    font-weight: bold;
+    width: 200px;
+    display: table;
+    margin: 20px auto;
+}
+.circle p {
+    vertical-align: middle;
+    display: table-cell;
 }
 
 header {
