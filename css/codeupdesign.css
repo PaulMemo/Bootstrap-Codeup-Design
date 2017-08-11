@@ -1,5 +1,5 @@
-html {
-    background-color: lightgray;
+body {
+    background-color:;
 }
 
 
@@ -84,9 +84,6 @@ h2 {
     display: table-cell;
 }
 
-header {
-    background-color: lightgray;
-}
 
 .black {
     font-size: 64px;
@@ -149,4 +146,8 @@ header {
 
 .last-tweet .twitter {
     display: inline-block;
+}
+
+.codeup {
+    font-size: 35px;
 }
