@@ -1,6 +1,4 @@
-body {
-    background-color:;
-}
+
 
 
 .blue-hat {
@@ -112,7 +110,7 @@ h2 {
 }
 
 .words {
-    font-size: 20px;
+    font-size: 27px;
     font-family: anton, sans-serif;
     margin-top: 20px;
 }
@@ -151,3 +149,4 @@ h2 {
 .codeup {
     font-size: 35px;
 }
+
