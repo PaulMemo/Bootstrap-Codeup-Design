@@ -24,20 +24,58 @@ h2 {
 }
 
 .block {
-    border: 1px solid red;
     text-align: center;
     vertical-align: middle;
 }
-.circle {
+.circle-red {
     background: red;
     border-radius: 200px;
     color: white;
-    height: 200px;
+    height: 100px;
     font-weight: bold;
-    width: 200px;
+    width: 100px;
     display: table;
-    margin: 20px auto;
+    font-size: large;
+    font-family: anton, sans-serif;
+    border: 2px solid black;
 }
+
+.circle-orange {
+    background: orange;
+    border-radius: 200px;
+    color: white;
+    height: 100px;
+    font-weight: bold;
+    width: 100px;
+    display: table;
+    font-size: large;
+    font-family: anton, sans-serif;
+}
+
+.circle-green {
+    background: green;
+    border-radius: 200px;
+    color: white;
+    height: 100px;
+    font-weight: bold;
+    width: 100px;
+    display: table;
+    font-size: large;
+    font-family: anton, sans-serif;
+}
+
+.circle-blue {
+    background: blue;
+    border-radius: 50%;
+    color: white;
+    height: 100px;
+    font-weight: bold;
+    width: 100px;
+    display: table;
+    font-size: large;
+    font-family: anton, sans-serif;
+}
+
 .circle p {
     vertical-align: middle;
     display: table-cell;
