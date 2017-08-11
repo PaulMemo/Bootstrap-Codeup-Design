@@ -28,7 +28,7 @@ h2 {
     vertical-align: middle;
 }
 .circle-red {
-    background: red;
+    background: #E6563B;
     border-radius: 200px;
     color: white;
     height: 100px;
@@ -41,7 +41,7 @@ h2 {
 }
 
 .circle-orange {
-    background: orange;
+    background: #ff9642;
     border-radius: 200px;
     color: white;
     height: 100px;
@@ -54,7 +54,7 @@ h2 {
 }
 
 .circle-green {
-    background: green;
+    background: #7CB06C;
     border-radius: 200px;
     color: white;
     height: 100px;
@@ -67,7 +67,7 @@ h2 {
 }
 
 .circle-blue {
-    background: blue;
+    background: #00ABA9;
     border-radius: 50%;
     color: white;
     height: 100px;
@@ -103,21 +103,23 @@ header {
 }
 
 .circle-icon {
-    width: 18px;
-    height: 18px;
+    width: 25px;
+    height: 25px;
     margin: 0;
     float: left;
+    color: black;
+    text-align: center;
+
 }
 
 .words {
-    font-size: 40px;
+    font-size: 30px;
     font-family: anton, sans-serif;
-    float: right;
 }
 
 .mobile {
-    width: 50px;
-    height: 50px;
+    width: 60px;
+    height: 60px;
 }
 
 .col-sm-4 {
